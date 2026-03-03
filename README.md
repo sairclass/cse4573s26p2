@@ -1,4 +1,4 @@
-# Fall 25 CSE 473/573 Project 2
+# Spring 26 CSE 473/573 Project 2
 
 ## TODO: Fill the blank with your UBIT name
 
