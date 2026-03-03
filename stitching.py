@@ -20,10 +20,7 @@ def stitch_background(imgs: Dict[str, torch.Tensor]):
     Args:
         imgs: input images are a dict of 2 images of torch.Tensor represent an input images for task-1.
     Returns:
-        img: stitched_image: torch.Tensor of the output image. 
-    """
-    """
-    Please do not use cv2, numpy, PIL, imageio for any image related operations. 
+        img: stitched_image: torch.Tensor of the output image.
     """
     img = torch.zeros((3, 256, 256)) # assumed 256*256 resolution. Update this as per your logic.
 
