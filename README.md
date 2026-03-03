@@ -25,7 +25,7 @@ python task2.py --input_path images/t2 --output outputs/task2.png --json task2.j
 ```
 
 ### Bonus
-We haveve provided some challenging examples in the `images/Bonus1` folder — you’re encouraged to see if you can create a panorama from them.
+We have provided some challenging examples in the `images/Bonus1` folder — you’re encouraged to see if you can create a panorama from them.
 
 You can also add your own Buffalo- or UB-related images to the `images/Bonus2` folder.
 
